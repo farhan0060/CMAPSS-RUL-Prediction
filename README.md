@@ -78,8 +78,8 @@ Detailed analysis, implementation, visualizations, and experimental results are 
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd NASA-CMAPSS-RUL
+git clone https://github.com/farhan0060/CMAPSS-RUL-Prediction.git
+cd CMAPSS-RUL-Prediction
 ```
 
 Install dependencies:
